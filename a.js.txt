@@ -1,3 +1,7 @@
 let a = 'a'
 let b = 1
 console.log('a is ', a)
+
+// 林元杰
+
+这是一个txt文件
